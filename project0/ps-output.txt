@@ -1,0 +1,24 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 06:27 ?        00:00:00 /bin/bash /google/scripts/onrun.sh sleep infinity
+syslog         9       1  0 06:27 ?        00:00:01 /usr/sbin/rsyslogd
+root          25       1  0 06:27 ?        00:00:00 /usr/bin/python /usr/bin/supervisord -n -c /google/devshell/supervisord.conf --pidfile=/var/run/supervisor.pid --logfile=/var/log/supervisord.log
+root          26       1  0 06:27 ?        00:00:00 logger -t supervisord
+root          61       1  0 06:27 ?        00:00:00 sshd: /usr/sbin/sshd -p 22 -o AuthorizedKeysFile=/etc/ssh/keys/authorized_keys [listener] 0 of 10-60 startups
+root         194       1  0 06:27 ?        00:00:00 /usr/bin/dockerd -p /var/run/docker.pid --mtu=1460 --registry-mirror=https://us-mirror.gcr.io
+root         250     194  0 06:27 ?        00:00:00 containerd --config /var/run/docker/containerd/containerd.toml
+root         252      61  0 06:27 ?        00:00:00 sshd: aliceklee65 [priv]
+root         258      61  0 06:27 ?        00:00:00 sshd: aliceklee65 [priv]
+root         259      25  0 06:27 ?        00:00:00 /google/devshell/editor/proxy/editor-proxy -static-content-dir=/google/devshell/editor/theia/lib -etag-file=/google/devshell/editor/proxy/theia-etags.txt -editor-dir=/google/devshell/editor/theia
+root         261      25  0 06:27 ?        00:00:00 sudo /google/devshell/tmux-agent
+root         265     261  0 06:27 ?        00:00:00 /google/devshell/tmux-agent
+alicekl+     273     252  0 06:27 ?        00:00:00 sshd: aliceklee65@pts/0
+alicekl+     274     273  0 06:27 pts/0    00:00:00 bash -c (sudo touch /var/run/google/devshell/42431 &)             trap "sudo rm -f /var/run/google/devshell/42431" EXIT HUP INT QUIT PIPE TERM;             /bin/bash --norc --noprofile
+alicekl+     277     274  0 06:27 pts/0    00:00:00 /bin/bash --norc --noprofile
+alicekl+     278     258  0 06:27 ?        00:00:00 sshd: aliceklee65@pts/1
+alicekl+     281     278  0 06:27 pts/1    00:00:00 bash -c if [ -f /google/devshell/start-shell.sh ]; then   /google/devshell/start-shell.sh  ''  ''  ''  '2038654421'  false else  bash --login fi
+alicekl+     282     281  0 06:27 pts/1    00:00:00 /bin/bash /google/devshell/start-shell.sh    2038654421 false
+alicekl+     283     282  0 06:27 pts/1    00:00:00 tmux new-session -A -D -n cloudshell -s 2038654421
+alicekl+     285       1  0 06:27 ?        00:00:00 tmux new-session -A -D -n cloudshell -s 2038654421
+alicekl+     286     285  0 06:27 pts/2    00:00:00 -bash
+root         623       1  0 06:27 ?        00:00:00 sleep infinity
+alicekl+    1208     286  0 06:36 pts/2    00:00:00 ps -ef
