@@ -1,1 +1,1 @@
-Hi, my name ia alice lee and my Github user name is akl5.
+echo Hi, my name is alice lee and my Github user name is akl5.
