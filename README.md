@@ -8,7 +8,7 @@ hey there! 👋 i'm alice – i'm super passionate about **creating impact** thr
 | projects: | tech stack: | a quick lil' one-sentencer: | 
 |-------|--------| ----------|
 |[PackTack](https://github.com/akl5/PackTrack)  | mysql, streamlit, python, flask, docker, figma | student feedback visualizer to improve the job application experience.|
-| [Apprenta](https://www.apprenta.co/)| react, typescript, graphql, hasura | new york-based startup building scholarship search web platform for community college students. |
+| [Apprenta](https://www.apprenta.co/)| react, typescript, graphql, hasura | new york-based startup scholarship search web platform for community college students. |
 |[FUNances](https://github.com/clarissaramos/Funances-)| swift, xcode, figma | mobile app for personal-finance education catered to middle/high school students. |
 
 ## works in progress...
