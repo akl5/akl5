@@ -12,4 +12,4 @@ hey there! 👋 i'm alice – i'm super passionate about **creating impact** thr
 |[FUNances](https://github.com/clarissaramos/Funances-)| swift, xcode, figma | mobile app for personal-finance education catered to middle/high school students. |
 
 ## works in progress...
-**i'm currently learning how to:** build with svelte, creating my own sports predictive models, and crocheting! 
+**i'm currently learning how to:** build with svelte, create my own sports predictive models, and learning how to crochet! 
