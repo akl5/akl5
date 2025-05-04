@@ -14,4 +14,4 @@ I'm Alice – I'm super passionate about **Creating Impact** through **Innovatio
 |[FUNances](https://github.com/clarissaramos/Funances-)| Swift, XCode, Figma | mobile app for personal-finance education catered to middle/high school students. |
 
 ## Works in Progress 🧠
-**I'm Constantly learning** – _and currently learning how to:_ Build with Svelte, create my own sports predictive model, and learning how to crochet! 
+**I'm Constantly Learning** – _and currently learning how to:_ Build with Svelte, create my own sports predictive model, and learning how to crochet! 
