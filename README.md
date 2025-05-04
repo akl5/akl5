@@ -1,6 +1,6 @@
 # About 🍥 
 ### Hey there! 👋
-I'm Alice – I'm super passionate about **Creating Impact** through **Innovation** and **Technology**🪐. Currently a Sophomore @ Northeastern University studying Computer Science under the Khoury College of Computer Sciences with a minor in Corporate Innovation.
+I'm Alice – I'm super passionate about **Creating Impact** through **Innovation** and **Technology**🪐. Currently a Sophomore @ Northeastern University studying Computer Science under the Khoury College of Computer Sciences with a minor in Corporate Innovation 💡
 #### I'm currently...
 - **Building** full-stack projects through incorporating my background in design & entrepreneurship 🛠️
 - **Leading** professional development programs for over 2000+ students👀
