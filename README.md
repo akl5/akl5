@@ -7,7 +7,7 @@ I'm Alice – I'm super passionate about **Creating Impact** through **Innovatio
 - **Mentoring** over 60+ student founders annually with their SaaS/hardware startups👩‍💻
 
 # Projects i've helped build 📓 
-| projects: | tech stack: | a quick lil' one-sentencer: | 
+| Project | Tech Stack | One-Sentencer: | 
 |-------|--------| ----------|
 |[PackTack](https://github.com/akl5/PackTrack)  | MySQL, streamlit, Python, Flask, Docker, Figma | student feedback visualizer to improve the job application experience.|
 | [Apprenta](https://www.apprenta.co/)| React.JS, Typescript, GraphQL, Hasura | new york-based startup, helping build scholarship search web platform for community college students. |
