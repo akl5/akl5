@@ -1,8 +1,9 @@
 ## a little about me 🍥 
-hey there! 👋 i'm alice – i'm super passionate about **creating impact** through **innovation** and **technology**🪐
-- **building** full-stack projects through incorporating my background in design & entrepreneurship 🛠️
-- **leading** professional development programs for over 2000+ students👀
-- **mentoring** over 60+ student founders annually with their SaaS/hardware startups👩‍💻
+Hey there! 👋 I'm Alice – I'm super passionate about **Creating Impact** through **Innovation** and **Technology**🪐. Currently a Sophomore @ Northeastern University studying Computer Science under the Khoury College of Computer Sciences with a minor in Corporate Innovation.
+### currently...
+- **Building** full-stack projects through incorporating my background in design & entrepreneurship 🛠️
+- **Leading** professional development programs for over 2000+ students👀
+- **Mentoring** over 60+ student founders annually with their SaaS/hardware startups👩‍💻
 
 ## some projects i've helped build 📓 
 | projects: | tech stack: | a quick lil' one-sentencer: | 
