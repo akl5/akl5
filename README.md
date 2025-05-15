@@ -13,5 +13,10 @@ I'm Alice – I'm super passionate about **Creating Impact** through **Innovatio
 | [Apprenta](https://www.apprenta.co/)| React.JS, Typescript, GraphQL, Hasura | new york-based startup, helping build scholarship search web platform for community college students. |
 |[FUNances](https://github.com/clarissaramos/Funances-)| Swift, XCode, Figma | mobile app for personal-finance education catered to middle/high school students. |
 
+
+# Tech Stack 📓 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
 ## Works in Progress 🧠
 **I'm Constantly Learning** – _and currently learning how to:_ Build with Svelte, create my own sports predictive model, and learning how to crochet! 
