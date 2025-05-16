@@ -6,7 +6,7 @@ I'm Alice – I'm super passionate about **Creating Impact** through **Innovatio
 - **Leading** professional development programs for over 2000+ students👀
 - **Mentoring** over 60+ student founders annually with their SaaS/hardware startups👩‍💻
 
-# Projects i've helped build 📓 
+# Projects I've Helped Build 📓 
 | Project | Tech Stack | One-Sentencer: | 
 |-------|--------| ----------|
 |[PackTack](https://github.com/akl5/PackTrack)  | MySQL, streamlit, Python, Flask, Docker, Figma | student feedback visualizer to improve the job application experience.|
