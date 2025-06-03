@@ -12,7 +12,7 @@ Currently a Sophomore @ Northeastern University studying Computer Science under 
 | Project | Tech Stack | One-Sentencer: | 
 |-------|--------| ----------|
 |[PackTack](https://github.com/akl5/PackTrack)  | MySQL, streamlit, Python, Flask, Docker, Figma | student feedback visualizer to improve the job application experience.|
-| [Apprenta](https://www.apprenta.co/)| React.JS, Typescript, GraphQL, Hasura | new york-based startup, helping build scholarship search web platform for community college students. |
+| [Apprenta](https://www.apprenta.co/)| React.JS, Typescript, GraphQL, Hasura | new york-based startup helping find talent from non-traditional educational and professional backgrounds. |
 |[FUNances](https://github.com/clarissaramos/Funances-)| Swift, XCode, Figma | mobile app for personal-finance education catered to middle/high school students. |
 
 
