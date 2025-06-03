@@ -9,7 +9,7 @@ Currently a Sophomore @ Northeastern University studying Computer Science under 
 - **Mentoring** over 60+ student founders annually with their SaaS/hardware startups👩‍💻
 
 ## Projects I've Helped Build 📓 
-| Project | Tech Stack | One-Sentencer: | 
+| project | tech stack | about | 
 |-------|--------| ----------|
 |[PackTack](https://github.com/akl5/PackTrack)  | MySQL, streamlit, Python, Flask, Docker, Figma | student feedback visualizer to improve the job application experience.|
 | [Apprenta](https://www.apprenta.co/)| React.JS, Typescript, GraphQL, Hasura | new york-based startup helping find talent from non-traditional educational and professional backgrounds. |
