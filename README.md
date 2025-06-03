@@ -1,12 +1,12 @@
-# About Me 🏹
+## About Me 🏹
 ### Hey there! 👋
 I'm Alice – I'm super passionate about **Creating Impact** through **Innovation** and **Technology**🪐. Currently a Sophomore @ Northeastern University studying Computer Science under the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) with a minor in Corporate Innovation 💡
-### I'm currently...
+### Currently...
 - **Building** full-stack projects through incorporating my background in tech, design & entrepreneurship 🛠️
 - **Leading** professional development programs for over 2000+ students👀
 - **Mentoring** over 60+ student founders annually with their SaaS/hardware startups👩‍💻
 
-# Projects I've Helped Build 📓 
+## Projects I've Helped Build 📓 
 | Project | Tech Stack | One-Sentencer: | 
 |-------|--------| ----------|
 |[PackTack](https://github.com/akl5/PackTrack)  | MySQL, streamlit, Python, Flask, Docker, Figma | student feedback visualizer to improve the job application experience.|
@@ -14,7 +14,7 @@ I'm Alice – I'm super passionate about **Creating Impact** through **Innovatio
 |[FUNances](https://github.com/clarissaramos/Funances-)| Swift, XCode, Figma | mobile app for personal-finance education catered to middle/high school students. |
 
 
-# Tech Stack 🛠️
+## Tech Stack 🛠️
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
