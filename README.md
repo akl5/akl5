@@ -33,4 +33,4 @@ I'm Alice – I'm super passionate about **Creating Impact** through **Innovatio
 
 
 ## Works in Progress 🧠
-**I'm Constantly Learning** – _and currently learning how to:_ Build with Svelte, create my own sports predictive model, and learning how to crochet! 
+**I'm Constantly Learning** – **_and currently learning how to:_** Build with Svelte, build Machine Learning models for my favourite hockey teams, and learning how to crochet! 🧶
