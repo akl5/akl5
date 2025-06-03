@@ -35,4 +35,4 @@ Currently a Sophomore @ Northeastern University studying Computer Science under 
 
 
 ## Works in Progress 🧠
-**I'm Constantly Learning** – and currently learning how to: Build with Svelte, build Machine Learning models for my favourite hockey teams, and learning how to crochet! 🧶
+**I'm Constantly Learning** – and currently learning how to: Build with Svelte, create Machine Learning models for my favourite hockey teams 🏒, and learning how to crochet! 🧶
